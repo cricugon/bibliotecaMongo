@@ -137,5 +137,5 @@ app.get('/addAutor', (req, res) => {
 
 // Iniciar el servidor
 app.listen(PORT, () => {
-    console.log(`Servidor corriendooosdfsdoooooo en http://localhost:${PORT}`);
+    console.log(`Servidor corendooosdfsdoooooo en http://localhost:${PORT}`);
 });
