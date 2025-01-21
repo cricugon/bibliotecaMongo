@@ -132,6 +132,7 @@ app.get('/addLibro', (req, res) => {
 });
 app.get('/addAutor', (req, res) => {
     res.sendFile(path.join(__dirname, 'public/addAutor.html'));  // Asegúrate de tener el archivo 'addAutor.html'
+
 });
 
 // Iniciar el servidor
